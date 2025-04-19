@@ -495,3 +495,9 @@ h6,
         margin-bottom: -75px;
     }
 }
+
+@media only screen and (max-width: 768px) {
+    .carousel-item img {
+        height: 40vh;
+    }
+}
